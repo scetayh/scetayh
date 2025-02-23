@@ -24,7 +24,7 @@ Using macOS.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scetayh&repo=indeux)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scetayh&repo=blog.tarikkochan.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liziyu0714&repo=dickzhouboom.tarikkochan.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scetayh&repo=dickzhouboom.tarikkochan.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 scetayh/scetayh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
