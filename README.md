@@ -1,30 +1,35 @@
-# 幸草_Tarikko-ScetayhChan
+# 幸草_Tarikko-Scetayhchan
 
-> See more on my blog website base on GitHub Pages (platform), Hexo (framework), Shoka (theme), etc.: https://blog.tarikkochan.top/pages/scetayh/.
+## Forewords
 
-As student. ~~(Kakusei desu.)~~
+The following two URLs are: one is a user entry on Moegirlpedia (https://zh.moegirl.org.cn), containing hobbies and self-introductions; the other is a personal blog, which has now largely stopped updating.
 
-Interested in instruments, anime (アニメ), J-POP, VOCALOID (ボカロ), OS administrating (~~btw i use arch/gentoo~~), etc.
+The social media profile picture is a cropped section of the work **_"Drizzle"_** (https://www.pixiv.net/artworks/98422743) by Korean artist **Reinforced** (https://www.pixiv.net/users/12355624/), while the cover features a portion of **Sayaka** from the magical girl Puella Magi Madoka Magica group illustrations created by Chinese artist **Matcha_** (https://www.pixiv.net/users/12355624/, https://weibo.com/u/1990983307).
 
-> Emmm... A few reports:
->
-> Sayaka SAIKOU!!!
-> Venti SAIKOU!!!
-> Noa SAIKOU!!!
->
-> 突发恶疾（
+https://zh.moegirl.org.cn/User:Tarikko-ScetayhChan
 
-Speaking zh-CN (简体中文), en-US, ja-JP (日本語).
+https://blog.tarikkochan.top
 
-Using macOS.
+## Languages
 
-~~On the upper layer of the water circle of development.~~
+### Natural
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scetayh&show_icons=true)
+- **Simplified Chinese/简体中文 (zh_CN)**
+- Traditional Chinese/繁體中文 (zh_TW)
+- American English/English (America) (en_US)
+- Japanese/日本語 (ja_JP)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scetayh&repo=indeux)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scetayh&repo=blog.tarikkochan.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scetayh&repo=dickzhouboom.tarikkochan.github.io)](https://github.com/anuraghazra/github-readme-stats)
+### Programming
+
+- Bash Shell
+- C
+- HTML
+- ~~JavaScript~~
+
+## OS
+
+- macOS Golden Gate 27
+- **Gentoo Asahi** (**m1n1**/**U-Boot**/GRUB/systemd/KDE Plasma/Pipewire)
 
 <!---
 scetayh/scetayh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
