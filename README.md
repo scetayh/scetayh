@@ -14,10 +14,10 @@ https://blog.tarikkochan.top
 
 ### Natural
 
-- **Simplified Chinese/简体中文 (zh_CN)**
-- Traditional Chinese/繁體中文 (zh_TW)
-- American English/English (America) (en_US)
-- Japanese/日本語 (ja_JP)
+- **Simplified Chinese/简体中文 (zh-CN)**
+- Traditional Chinese/繁體中文 (zh-TR)
+- American English/English (America) (en-US)
+- Japanese/日本語 (ja-JP)
 
 ### Programming
 
