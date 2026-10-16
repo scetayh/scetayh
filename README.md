@@ -23,13 +23,21 @@ https://blog.tarikkochan.top
 
 - Bash Shell
 - C
-- HTML
-- ~~JavaScript~~
 
 ## OS
 
 - macOS Golden Gate 27
-- **Gentoo Asahi** (**m1n1**/**U-Boot**/GRUB/systemd/KDE Plasma/Pipewire)
+  - **Homebrew** as package manager
+- **Gentoo Linux aarch64 (Asahi supported)**
+  - **m1n1** / **U-Boot** as bootloader
+  - **GRUB** as kernel loader
+  - **glibc** as C library
+  - **systemd** as init system
+  - **bash** as shell
+  - **KDE** as desktop environment
+  - **Wayland** as display server protocol
+  - **Hyprland** as Wayland compositor
+  - **Pipewire** as multimedia framework
 
 <!---
 scetayh/scetayh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
