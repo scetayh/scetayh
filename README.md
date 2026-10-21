@@ -29,15 +29,18 @@ https://blog.tarikkochan.top
 - macOS Golden Gate 27
   - **Homebrew** as package manager
 - **Gentoo Linux aarch64 (Asahi supported)**
-  - **m1n1** / **U-Boot** as bootloader
+  - **m1n1** / **U-Boot** as bootloader ~~instead of UEFI Firmware~~
   - **GRUB** as kernel loader
   - **glibc** as C library
-  - **systemd** as init system
+  - **systemd** as init system ~~instead of OpenRC~~
   - **bash** as shell
   - **KDE** as desktop environment
-  - **Wayland** as display server protocol
-  - **Hyprland** as Wayland compositor
-  - **Pipewire** as multimedia framework
+  - **greetd** as display manager ~~instead of SDDM~~
+  - **Wayland** as display server protocol ~~instead of X11~~
+  - **Hyprland** as Wayland compositor ~~instead of KWin~~
+  - **Pipewire** as multimedia framework ~~instead of Pulse Audio~~
+  - **Ghostty** as terminal emulator ~~instead of Konsole~~
+  - **Nautilus** as file manager ~~instead of Dolphin~~
 
 <!---
 scetayh/scetayh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
